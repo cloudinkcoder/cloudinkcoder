@@ -14,30 +14,24 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 - [![Email](https://img.shields.io/badge/Email-cs.yelling123@passinbox.com-pink?style=flat-square)](mailto:cs.yelling123@passinbox.com)
 - [![Blog](https://img.shields.io/badge/Blog-chanblog.pages.dev-green?style=flat-square)](https://chanblog.pages.dev/) [![Homepage](https://img.shields.io/badge/Homepage-zwchen.pages.dev-red?style=flat-square)](https://zwchen.pages.dev/)
 
-## Math
-
-### Publications
-
-- [![Book:Hanky](https://img.shields.io/badge/Book-The_Hanky_project-purple?style=flat-square)](https://zwchen.pages.dev/hanky) [![Book:AGWT](https://img.shields.io/badge/Book-Algebraic_Geometry_Without_Tears-purple?style=flat-square)](https://zwchen.pages.dev/agwt)
-
 ## CS
 
 ### Projects
 
 ## About Some Projects
 
-- [Aaron's Notebook](https://github.com/usaronchan/aaron-notebook): ![GitHub repo size](https://img.shields.io/github/repo-size/usaronchan/aaron-notebook) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/usaronchan/aaron-notebook)
+- [Aaron's Notebook](https://github.com/cloudinkcoder/aaron-notebook): ![GitHub repo size](https://img.shields.io/github/repo-size/cloudinkcoder/aaron-notebook) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/cloudinkcoder/aaron-notebook)
 
 <div align="center">
 
 <!-- 隐藏显示的语言有: dockerfile, shell, makefile, CMake, Perl, Lua, vimrc, nix -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usaronchan&hide=dockerfile,shell,makefile,cmake,perl,lua,vim%20script,nix&layout=compact)](https://github.com/usaronchan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudinkcoder&hide=dockerfile,shell,makefile,cmake,perl,lua,vim%20script,nix&layout=compact)](https://github.com/cloudinkcoder/github-readme-stats)
 
 </div>
 
 <!--
-**usaronchan/usaronchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**<username>/<username>** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
