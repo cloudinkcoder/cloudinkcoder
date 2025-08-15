@@ -24,9 +24,9 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
 <div align="center">
 
-<!-- 隐藏显示的语言有: dockerfile, shell, makefile, CMake, Perl, Lua, vimrc, nix -->
+<!-- 隐藏显示的语言有: dockerfile, shell, makefile, CMake, Perl, Lua, vimrc, nix, tex -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudinkcoder&hide=dockerfile,shell,makefile,cmake,perl,lua,vim%20script,nix&layout=compact)](https://github.com/cloudinkcoder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudinkcoder&hide=dockerfile,shell,makefile,cmake,perl,lua,vim%20script,nix,tex&layout=compact)](https://github.com/cloudinkcoder/github-readme-stats)
 
 </div>
 
