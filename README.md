@@ -9,8 +9,8 @@ I am Aaron Chan, an undergraduate student.
 
 My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
-- [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) [![OS:Debian](https://img.shields.io/badge/OS-Debian-blue?style=flat-square&logo=debian)](https://www.debian.org/) [![OS:KaliLinux](https://img.shields.io/badge/OS-Kali_Linux-blue?style=flat-square&logo=Kali-Linux)](https://www.kali.org/) [![OS:Win11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square)](https://www.microsoft.com/en-us/software-download/windows11)
-- [![Editor:Neovim](https://img.shields.io/badge/Editor-Neovim-green?style=flat-square&logo=neovim)](https://neovim.io/) [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-purple?style=flat-square)](https://code.visualstudio.com/)
+- [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org) [![OS:Debian](https://img.shields.io/badge/OS-Debian-blue?style=flat-square&logo=debian)](https://www.debian.org/) [![OS:KaliLinux](https://img.shields.io/badge/OS-Kali_Linux-blue?style=flat-square&logo=Kali-Linux)](https://www.kali.org/) [![OS:Win10](https://img.shields.io/badge/OS-Windows10-blue?style=flat-square)](https://www.microsoft.com/en-us/software-download/windows11)
+- [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-purple?style=flat-square)](https://code.visualstudio.com/) [![Editor:Neovim](https://img.shields.io/badge/Editor-Neovim-green?style=flat-square&logo=neovim)](https://neovim.io/)
 - [![Email](https://img.shields.io/badge/Email-cs.yelling123@passinbox.com-pink?style=flat-square)](mailto:cs.yelling123@passinbox.com)
 - [![Blog](https://img.shields.io/badge/Blog-chanblog.pages.dev-green?style=flat-square)](https://chanblog.pages.dev/) [![Homepage](https://img.shields.io/badge/Homepage-zwchen.pages.dev-red?style=flat-square)](https://zwchen.pages.dev/)
 
