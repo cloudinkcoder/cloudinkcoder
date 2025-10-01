@@ -31,7 +31,7 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 - Editor:
   [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](https://www.vim.org/)
   [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/)
-  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
+  [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 
 ## My Tech Stack
@@ -90,6 +90,8 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
   ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/cloudinkcoder/aaron-notebook)
 
 <div align="center">
+
+<!-- ![cloudinkcoder's github stats](https://github-readme-stats.vercel.app/api?username=cloudinkcoder&count_private=true&show_icons=true) -->
 
 <!-- 隐藏显示的语言有: dockerfile, shell, makefile, CMake, Perl, Lua, vimrc, nix, tex -->
 
