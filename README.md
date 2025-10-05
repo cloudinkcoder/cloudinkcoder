@@ -53,6 +53,7 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 - [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
   [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
   [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+  [![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](#)
 - Database:
   [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -62,6 +63,7 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
   [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+  [![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
 
 ## Tools
 
